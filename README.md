@@ -126,10 +126,9 @@ The property is estimated to be worth $452,893.425
 
 📂 House-Price-Prediction/
 │
-├── 📄 multivariable_regression_and_valuation_model_(complete).py   # Main ML script
-├── 📊 boston.csv                                                   # Dataset (included)
-├── 📓 house price prediction.ipynb                                # Original notebook (optional)
-└── 📄 README.md                                                   # Project documentation
+├── 📊 boston.csv
+├── 📓 house price prediction.ipynb
+└── 📄 README.md
 
 ---
 
