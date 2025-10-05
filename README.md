@@ -124,11 +124,11 @@ The property is estimated to be worth $452,893.425
 
 ## 📁 Project Structure
 
-📂 House-Price-Prediction/
-│
-├── 📊 boston.csv
-├── 📓 house price prediction.ipynb
-└── 📄 README.md
+📂 House-Price-Prediction
+
+- 📊 boston.csv
+- 📓 house price prediction.ipynb
+- 📄 README.md
 
 ---
 
