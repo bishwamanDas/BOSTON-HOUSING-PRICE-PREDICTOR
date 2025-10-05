@@ -101,7 +101,6 @@ Metrics and plots include:
 
 The notebook also includes a **custom valuation feature**. By modifying property attributes (e.g., number of rooms, proximity to river, pollution level), you can estimate the house price dynamically:
 
-```python
 next_to_river = True
 nr_rooms = 8
 students_per_classroom = 20
